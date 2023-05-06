@@ -31,10 +31,10 @@ Estou sempre buscando novos conhecimentos e buscando aprimorar as minhas habilid
 
 ##
 
-<div align="center">
+<div>
   <a href="https://github.com/LucasSXdev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasSXdev&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSXdev&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24"/>
+  <img width = "42%"height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasSXdev&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true"/>
+  <img width = "42%" align = "right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSXdev&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24"/>
 </div>
 
 
